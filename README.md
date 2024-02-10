@@ -45,4 +45,4 @@ The impact scores for the objects selected by the user and the computer will be 
 [Rock Paper Scissors.pdf](https://github.com/YusufAtti/RockPaperScissors/files/14228900/Rock.Paper.Scissors.pdf)
 
 
-                                                                                            ***** UPDATE WILL BE MADE *****
+                              ***** UPDATE WILL BE MADE *****
